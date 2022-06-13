@@ -881,3 +881,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.13-19.45.42:680][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2022.06.13-19.45.42:682][  0]LogContentStreaming: Texture pool size now 800 MB
 [2022.06.13-19.45.42:872][  3]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.13-19.46.12:873][352]Cmd: MODE GRID=0
+[2022.06.13-19.46.13:496][424]Cmd: MODE SCALEGRID=0
